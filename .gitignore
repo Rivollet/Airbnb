@@ -3,6 +3,6 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
-# To avoid importing data on the repository
+# Avoid importing data on the repository
 data/
 geojson/
